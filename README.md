@@ -1,5 +1,7 @@
 ## jquery.confirm
 
+[![Join the chat at https://gitter.im/UltimateMcraft/jquery-confirm](https://badges.gitter.im/UltimateMcraft/jquery-confirm.svg)](https://gitter.im/UltimateMcraft/jquery-confirm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Confirm dialogs for buttons and links.
 
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/myclabs/jquery.confirm.svg)](http://isitmaintained.com/project/myclabs/jquery.confirm "Average time to resolve an issue")
